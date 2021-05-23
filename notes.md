@@ -12,3 +12,6 @@ https://poplindata.com/data-warehouses/2021-database-showdown-bigquery-vs-redshi
 
 ## NoSQL Database Article
 
+## First Contribution for GitHUB
+https://github.com/canerakin111/first-contributions
+
