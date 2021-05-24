@@ -11,6 +11,8 @@ https://hevodata.com/blog/amazon-redshift-vs-rds-comparison/
 https://poplindata.com/data-warehouses/2021-database-showdown-bigquery-vs-redshift-vs-snowflake/
 
 ## NoSQL Database Article
+https://aws.amazon.com/nosql/
+a short video: https://youtu.be/BgQFJ_UNIgw
 
 ## First Contribution for GitHUB
 https://github.com/canerakin111/first-contributions
