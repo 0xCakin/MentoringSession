@@ -1,11 +1,11 @@
 
 ## Query examples
-'''
+```
 SELECT account_id, MAX(standard_qty)
 FROM orders
 WHERE total_amt_usd > 500
 GROUP BY account_id;
-'''
+```
 SELECT *
 FROM orders
 GROUP BY account_id;
